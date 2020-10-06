@@ -8,5 +8,7 @@ Use Node or Yarn to start the React UI from src/main/frontend directory (i.e. np
 On the backend server side, use IntelliJ or Eclipse to setup a Build/Debug/Run configuration on src/main/java/com.tamidev.awsimageupload/Main.java
 
 
+
+
 ![alt title](/src/main/java/com/tamidev/awsimageupload/images/AWS-File-Uploader.png?raw=true "UML Diagram")
 
